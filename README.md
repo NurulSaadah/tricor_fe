@@ -1,4 +1,4 @@
-# mintari version 0.50
+# sample code
 
 ## Build Setup
 
